@@ -1,4 +1,4 @@
-# BattleShip
+# Battleship
 
 ![alt hydro1](http://www.lukaszkedziora.com/wp-content/uploads/2020/09/bs1.jpg)
 
