@@ -18,7 +18,7 @@ Not finished yet.
 
 ## Getting Started
 
-- Clone the repository using the command `git clone https://github.com/OrchardCMS/OrchardCore.git` and checkout the `master` branch.
+- Clone the repository using the command `git clone https://github.com/lukaszkedziora/Battleship.git` and checkout the `master` branch.
 
 - Just download and type: dotnet run in console or click play in Visual Studio.
 
